@@ -1,0 +1,27 @@
+[
+  {
+    "vehicle_type_id": "VT01",
+    "vehicle_type": "Auto",
+    "capacity": 3
+  },
+  {
+    "vehicle_type_id": "VT02",
+    "vehicle_type": "Mini",
+    "capacity": 4
+  },
+  {
+    "vehicle_type_id": "VT03",
+    "vehicle_type": "Sedan",
+    "capacity": 4
+  },
+  {
+    "vehicle_type_id": "VT04",
+    "vehicle_type": "SUV",
+    "capacity": 6
+  },
+  {
+    "vehicle_type_id": "VT05",
+    "vehicle_type": "Premium",
+    "capacity": 4
+  }
+]

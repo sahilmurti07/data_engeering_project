@@ -1,0 +1,22 @@
+[
+  {
+    "payment_method_id": "PM01",
+    "payment_method": "UPI"
+  },
+  {
+    "payment_method_id": "PM02",
+    "payment_method": "Credit Card"
+  },
+  {
+    "payment_method_id": "PM03",
+    "payment_method": "Debit Card"
+  },
+  {
+    "payment_method_id": "PM04",
+    "payment_method": "Cash"
+  },
+  {
+    "payment_method_id": "PM05",
+    "payment_method": "Wallet"
+  }
+]

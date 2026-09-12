@@ -1,0 +1,802 @@
+[
+  {
+    "location_id": "LOC0001",
+    "city_id": "CITY004",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "latitude": 17.337501,
+    "longitude": 78.464203
+  },
+  {
+    "location_id": "LOC0002",
+    "city_id": "CITY008",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "latitude": 22.986454,
+    "longitude": 72.53165
+  },
+  {
+    "location_id": "LOC0003",
+    "city_id": "CITY018",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "latitude": 26.408594,
+    "longitude": 80.324092
+  },
+  {
+    "location_id": "LOC0004",
+    "city_id": "CITY001",
+    "city": "Delhi",
+    "state": "Delhi",
+    "latitude": 28.57327,
+    "longitude": 77.182266
+  },
+  {
+    "location_id": "LOC0005",
+    "city_id": "CITY020",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "latitude": 28.488154,
+    "longitude": 77.360884
+  },
+  {
+    "location_id": "LOC0006",
+    "city_id": "CITY018",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "latitude": 26.441852,
+    "longitude": 80.326821
+  },
+  {
+    "location_id": "LOC0007",
+    "city_id": "CITY009",
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "latitude": 26.943343,
+    "longitude": 75.73795
+  },
+  {
+    "location_id": "LOC0008",
+    "city_id": "CITY006",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "latitude": 22.592414,
+    "longitude": 88.347925
+  },
+  {
+    "location_id": "LOC0009",
+    "city_id": "CITY005",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "latitude": 13.054231,
+    "longitude": 80.297049
+  },
+  {
+    "location_id": "LOC0010",
+    "city_id": "CITY004",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "latitude": 17.344275,
+    "longitude": 78.446372
+  },
+  {
+    "location_id": "LOC0011",
+    "city_id": "CITY012",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "latitude": 30.326873,
+    "longitude": 78.062913
+  },
+  {
+    "location_id": "LOC0012",
+    "city_id": "CITY015",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "latitude": 29.971623,
+    "longitude": 77.602512
+  },
+  {
+    "location_id": "LOC0013",
+    "city_id": "CITY013",
+    "city": "Haridwar",
+    "state": "Uttarakhand",
+    "latitude": 29.90358,
+    "longitude": 78.143518
+  },
+  {
+    "location_id": "LOC0014",
+    "city_id": "CITY020",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "latitude": 28.574045,
+    "longitude": 77.377164
+  },
+  {
+    "location_id": "LOC0015",
+    "city_id": "CITY007",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "latitude": 18.540857,
+    "longitude": 73.811282
+  },
+  {
+    "location_id": "LOC0016",
+    "city_id": "CITY008",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "latitude": 23.049807,
+    "longitude": 72.619922
+  },
+  {
+    "location_id": "LOC0017",
+    "city_id": "CITY008",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "latitude": 23.059148,
+    "longitude": 72.559413
+  },
+  {
+    "location_id": "LOC0018",
+    "city_id": "CITY015",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "latitude": 29.981568,
+    "longitude": 77.541683
+  },
+  {
+    "location_id": "LOC0019",
+    "city_id": "CITY012",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "latitude": 30.302027,
+    "longitude": 78.049218
+  },
+  {
+    "location_id": "LOC0020",
+    "city_id": "CITY003",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "latitude": 12.982513,
+    "longitude": 77.561714
+  },
+  {
+    "location_id": "LOC0021",
+    "city_id": "CITY008",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "latitude": 22.98884,
+    "longitude": 72.559346
+  },
+  {
+    "location_id": "LOC0022",
+    "city_id": "CITY018",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "latitude": 26.421862,
+    "longitude": 80.314328
+  },
+  {
+    "location_id": "LOC0023",
+    "city_id": "CITY002",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "latitude": 19.048905,
+    "longitude": 72.83091
+  },
+  {
+    "location_id": "LOC0024",
+    "city_id": "CITY011",
+    "city": "Chandigarh",
+    "state": "Chandigarh",
+    "latitude": 30.723416,
+    "longitude": 76.736019
+  },
+  {
+    "location_id": "LOC0025",
+    "city_id": "CITY019",
+    "city": "Varanasi",
+    "state": "Uttar Pradesh",
+    "latitude": 25.355237,
+    "longitude": 82.955368
+  },
+  {
+    "location_id": "LOC0026",
+    "city_id": "CITY016",
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "latitude": 28.974063,
+    "longitude": 77.747855
+  },
+  {
+    "location_id": "LOC0027",
+    "city_id": "CITY015",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "latitude": 29.932287,
+    "longitude": 77.519163
+  },
+  {
+    "location_id": "LOC0028",
+    "city_id": "CITY018",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "latitude": 26.453798,
+    "longitude": 80.356601
+  },
+  {
+    "location_id": "LOC0029",
+    "city_id": "CITY014",
+    "city": "Roorkee",
+    "state": "Uttarakhand",
+    "latitude": 29.894082,
+    "longitude": 77.87794
+  },
+  {
+    "location_id": "LOC0030",
+    "city_id": "CITY008",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "latitude": 23.072233,
+    "longitude": 72.535233
+  },
+  {
+    "location_id": "LOC0031",
+    "city_id": "CITY016",
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "latitude": 28.943591,
+    "longitude": 77.661112
+  },
+  {
+    "location_id": "LOC0032",
+    "city_id": "CITY004",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "latitude": 17.350284,
+    "longitude": 78.452698
+  },
+  {
+    "location_id": "LOC0033",
+    "city_id": "CITY014",
+    "city": "Roorkee",
+    "state": "Uttarakhand",
+    "latitude": 29.863941,
+    "longitude": 77.876477
+  },
+  {
+    "location_id": "LOC0034",
+    "city_id": "CITY020",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "latitude": 28.585112,
+    "longitude": 77.393911
+  },
+  {
+    "location_id": "LOC0035",
+    "city_id": "CITY018",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "latitude": 26.485978,
+    "longitude": 80.283048
+  },
+  {
+    "location_id": "LOC0036",
+    "city_id": "CITY004",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "latitude": 17.403171,
+    "longitude": 78.490397
+  },
+  {
+    "location_id": "LOC0037",
+    "city_id": "CITY009",
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "latitude": 26.93926,
+    "longitude": 75.771318
+  },
+  {
+    "location_id": "LOC0038",
+    "city_id": "CITY010",
+    "city": "Lucknow",
+    "state": "Uttar Pradesh",
+    "latitude": 26.840177,
+    "longitude": 80.941572
+  },
+  {
+    "location_id": "LOC0039",
+    "city_id": "CITY009",
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "latitude": 26.959589,
+    "longitude": 75.813496
+  },
+  {
+    "location_id": "LOC0040",
+    "city_id": "CITY017",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "latitude": 27.217963,
+    "longitude": 78.045152
+  },
+  {
+    "location_id": "LOC0041",
+    "city_id": "CITY010",
+    "city": "Lucknow",
+    "state": "Uttar Pradesh",
+    "latitude": 26.880867,
+    "longitude": 80.946966
+  },
+  {
+    "location_id": "LOC0042",
+    "city_id": "CITY007",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "latitude": 18.485684,
+    "longitude": 73.882951
+  },
+  {
+    "location_id": "LOC0043",
+    "city_id": "CITY018",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "latitude": 26.49525,
+    "longitude": 80.374143
+  },
+  {
+    "location_id": "LOC0044",
+    "city_id": "CITY001",
+    "city": "Delhi",
+    "state": "Delhi",
+    "latitude": 28.623794,
+    "longitude": 77.207861
+  },
+  {
+    "location_id": "LOC0045",
+    "city_id": "CITY004",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "latitude": 17.42791,
+    "longitude": 78.524572
+  },
+  {
+    "location_id": "LOC0046",
+    "city_id": "CITY010",
+    "city": "Lucknow",
+    "state": "Uttar Pradesh",
+    "latitude": 26.820645,
+    "longitude": 80.920287
+  },
+  {
+    "location_id": "LOC0047",
+    "city_id": "CITY019",
+    "city": "Varanasi",
+    "state": "Uttar Pradesh",
+    "latitude": 25.362295,
+    "longitude": 82.932465
+  },
+  {
+    "location_id": "LOC0048",
+    "city_id": "CITY016",
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "latitude": 29.016102,
+    "longitude": 77.754198
+  },
+  {
+    "location_id": "LOC0049",
+    "city_id": "CITY018",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "latitude": 26.476483,
+    "longitude": 80.294739
+  },
+  {
+    "location_id": "LOC0050",
+    "city_id": "CITY016",
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "latitude": 29.029185,
+    "longitude": 77.672913
+  },
+  {
+    "location_id": "LOC0051",
+    "city_id": "CITY017",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "latitude": 27.213943,
+    "longitude": 78.000414
+  },
+  {
+    "location_id": "LOC0052",
+    "city_id": "CITY007",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "latitude": 18.563291,
+    "longitude": 73.882227
+  },
+  {
+    "location_id": "LOC0053",
+    "city_id": "CITY007",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "latitude": 18.541695,
+    "longitude": 73.846599
+  },
+  {
+    "location_id": "LOC0054",
+    "city_id": "CITY012",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "latitude": 30.31031,
+    "longitude": 78.033958
+  },
+  {
+    "location_id": "LOC0055",
+    "city_id": "CITY004",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "latitude": 17.359791,
+    "longitude": 78.443103
+  },
+  {
+    "location_id": "LOC0056",
+    "city_id": "CITY001",
+    "city": "Delhi",
+    "state": "Delhi",
+    "latitude": 28.622731,
+    "longitude": 77.182011
+  },
+  {
+    "location_id": "LOC0057",
+    "city_id": "CITY008",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "latitude": 22.973219,
+    "longitude": 72.592184
+  },
+  {
+    "location_id": "LOC0058",
+    "city_id": "CITY002",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "latitude": 19.048894,
+    "longitude": 72.918242
+  },
+  {
+    "location_id": "LOC0059",
+    "city_id": "CITY011",
+    "city": "Chandigarh",
+    "state": "Chandigarh",
+    "latitude": 30.690386,
+    "longitude": 76.7532
+  },
+  {
+    "location_id": "LOC0060",
+    "city_id": "CITY016",
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "latitude": 28.955924,
+    "longitude": 77.669631
+  },
+  {
+    "location_id": "LOC0061",
+    "city_id": "CITY019",
+    "city": "Varanasi",
+    "state": "Uttar Pradesh",
+    "latitude": 25.325221,
+    "longitude": 82.9482
+  },
+  {
+    "location_id": "LOC0062",
+    "city_id": "CITY016",
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "latitude": 29.01525,
+    "longitude": 77.675441
+  },
+  {
+    "location_id": "LOC0063",
+    "city_id": "CITY004",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "latitude": 17.400898,
+    "longitude": 78.47213
+  },
+  {
+    "location_id": "LOC0064",
+    "city_id": "CITY014",
+    "city": "Roorkee",
+    "state": "Uttarakhand",
+    "latitude": 29.851002,
+    "longitude": 77.910908
+  },
+  {
+    "location_id": "LOC0065",
+    "city_id": "CITY004",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "latitude": 17.341061,
+    "longitude": 78.509521
+  },
+  {
+    "location_id": "LOC0066",
+    "city_id": "CITY004",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "latitude": 17.359866,
+    "longitude": 78.455721
+  },
+  {
+    "location_id": "LOC0067",
+    "city_id": "CITY015",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "latitude": 29.932018,
+    "longitude": 77.523549
+  },
+  {
+    "location_id": "LOC0068",
+    "city_id": "CITY015",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "latitude": 29.942981,
+    "longitude": 77.597527
+  },
+  {
+    "location_id": "LOC0069",
+    "city_id": "CITY015",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "latitude": 29.998802,
+    "longitude": 77.590797
+  },
+  {
+    "location_id": "LOC0070",
+    "city_id": "CITY004",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "latitude": 17.340059,
+    "longitude": 78.536628
+  },
+  {
+    "location_id": "LOC0071",
+    "city_id": "CITY001",
+    "city": "Delhi",
+    "state": "Delhi",
+    "latitude": 28.6608,
+    "longitude": 77.251637
+  },
+  {
+    "location_id": "LOC0072",
+    "city_id": "CITY008",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "latitude": 22.989131,
+    "longitude": 72.569964
+  },
+  {
+    "location_id": "LOC0073",
+    "city_id": "CITY007",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "latitude": 18.556865,
+    "longitude": 73.896944
+  },
+  {
+    "location_id": "LOC0074",
+    "city_id": "CITY006",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "latitude": 22.560497,
+    "longitude": 88.412431
+  },
+  {
+    "location_id": "LOC0075",
+    "city_id": "CITY009",
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "latitude": 26.955052,
+    "longitude": 75.815813
+  },
+  {
+    "location_id": "LOC0076",
+    "city_id": "CITY010",
+    "city": "Lucknow",
+    "state": "Uttar Pradesh",
+    "latitude": 26.839001,
+    "longitude": 80.991932
+  },
+  {
+    "location_id": "LOC0077",
+    "city_id": "CITY018",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "latitude": 26.466087,
+    "longitude": 80.330567
+  },
+  {
+    "location_id": "LOC0078",
+    "city_id": "CITY007",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "latitude": 18.500071,
+    "longitude": 73.903571
+  },
+  {
+    "location_id": "LOC0079",
+    "city_id": "CITY019",
+    "city": "Varanasi",
+    "state": "Uttar Pradesh",
+    "latitude": 25.341174,
+    "longitude": 82.929996
+  },
+  {
+    "location_id": "LOC0080",
+    "city_id": "CITY011",
+    "city": "Chandigarh",
+    "state": "Chandigarh",
+    "latitude": 30.689017,
+    "longitude": 76.787818
+  },
+  {
+    "location_id": "LOC0081",
+    "city_id": "CITY017",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "latitude": 27.218639,
+    "longitude": 78.011213
+  },
+  {
+    "location_id": "LOC0082",
+    "city_id": "CITY002",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "latitude": 19.122078,
+    "longitude": 72.835711
+  },
+  {
+    "location_id": "LOC0083",
+    "city_id": "CITY006",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "latitude": 22.529452,
+    "longitude": 88.320696
+  },
+  {
+    "location_id": "LOC0084",
+    "city_id": "CITY008",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "latitude": 23.012878,
+    "longitude": 72.61556
+  },
+  {
+    "location_id": "LOC0085",
+    "city_id": "CITY019",
+    "city": "Varanasi",
+    "state": "Uttar Pradesh",
+    "latitude": 25.292222,
+    "longitude": 82.983352
+  },
+  {
+    "location_id": "LOC0086",
+    "city_id": "CITY020",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "latitude": 28.493698,
+    "longitude": 77.406737
+  },
+  {
+    "location_id": "LOC0087",
+    "city_id": "CITY019",
+    "city": "Varanasi",
+    "state": "Uttar Pradesh",
+    "latitude": 25.319878,
+    "longitude": 83.017371
+  },
+  {
+    "location_id": "LOC0088",
+    "city_id": "CITY007",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "latitude": 18.537373,
+    "longitude": 73.838118
+  },
+  {
+    "location_id": "LOC0089",
+    "city_id": "CITY009",
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "latitude": 26.901979,
+    "longitude": 75.804469
+  },
+  {
+    "location_id": "LOC0090",
+    "city_id": "CITY010",
+    "city": "Lucknow",
+    "state": "Uttar Pradesh",
+    "latitude": 26.842422,
+    "longitude": 80.989102
+  },
+  {
+    "location_id": "LOC0091",
+    "city_id": "CITY003",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "latitude": 12.922532,
+    "longitude": 77.606716
+  },
+  {
+    "location_id": "LOC0092",
+    "city_id": "CITY019",
+    "city": "Varanasi",
+    "state": "Uttar Pradesh",
+    "latitude": 25.36721,
+    "longitude": 82.931226
+  },
+  {
+    "location_id": "LOC0093",
+    "city_id": "CITY007",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "latitude": 18.520988,
+    "longitude": 73.819946
+  },
+  {
+    "location_id": "LOC0094",
+    "city_id": "CITY012",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "latitude": 30.354586,
+    "longitude": 78.070127
+  },
+  {
+    "location_id": "LOC0095",
+    "city_id": "CITY012",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "latitude": 30.294999,
+    "longitude": 78.026018
+  },
+  {
+    "location_id": "LOC0096",
+    "city_id": "CITY018",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "latitude": 26.470254,
+    "longitude": 80.343068
+  },
+  {
+    "location_id": "LOC0097",
+    "city_id": "CITY017",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "latitude": 27.127482,
+    "longitude": 78.03981
+  },
+  {
+    "location_id": "LOC0098",
+    "city_id": "CITY010",
+    "city": "Lucknow",
+    "state": "Uttar Pradesh",
+    "latitude": 26.889876,
+    "longitude": 80.906559
+  },
+  {
+    "location_id": "LOC0099",
+    "city_id": "CITY005",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "latitude": 13.059147,
+    "longitude": 80.309671
+  },
+  {
+    "location_id": "LOC0100",
+    "city_id": "CITY018",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "latitude": 26.415445,
+    "longitude": 80.310076
+  }
+]

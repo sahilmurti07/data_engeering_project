@@ -1,0 +1,10 @@
+[
+        {"file": "bulk_ride"},
+        {"file": "customers"},
+        {"file": "drivers"},
+        {"file": "locations"},
+        {"file": "payment_methods"},
+        {"file": "ride_types"},
+        {"file": "vehicle_types"},
+        {"file": "vehicles"}
+    ]
